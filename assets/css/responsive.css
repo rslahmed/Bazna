@@ -367,9 +367,9 @@
         margin-bottom: 20px;
     }
     .slider-btn a.round-btn {
-        padding: 15px 15px;
+        padding: 15px 22px;
         font-size: 13px;
-        margin-right: 15px;
+        margin-right: 8px;
     }
     .slider-btn a.round-btn:last-child {
         margin-right: 0px;
