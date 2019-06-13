@@ -361,7 +361,7 @@
     
 }
 
-/* Small devices (landscape phones, 576px and up) */
+/* Extra Small devices (lessthan 480px and up) */
 @media (max-width: 480px) { 
     .slider-btn a.round-btn {
         margin-bottom: 20px;
