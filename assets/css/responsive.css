@@ -530,4 +530,7 @@
     .single-team-wrapper {
         padding: 0;
     }
+    .team-title h4:before {
+        left: 20%;
+    }
 }
